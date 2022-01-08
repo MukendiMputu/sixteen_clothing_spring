@@ -1,3 +1,5 @@
+![](src/main/resources/sc_banner.png)
+
 # Sixteen Clothing
 
 Sixteen Clothing is a fictive fashion store created by [TEMPLATEMO](https://templatemo.com/) (a free HTML and CSS Template page).
