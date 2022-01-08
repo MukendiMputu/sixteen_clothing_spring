@@ -1,6 +1,6 @@
 /*Table structure for table `employees` */
 
-DROP TABLE IF EXISTS `Employees`;
+-- DROP TABLE IF EXISTS `Employees`;
 
 CREATE TABLE `Employees` (
     `employeeNumber` int(11) NOT NULL,
@@ -12,6 +12,7 @@ CREATE TABLE `Employees` (
     `reportsTo` int(11) DEFAULT NULL,
     `jobTitle` varchar(50) NOT NULL,
     PRIMARY KEY (`employeeNumber`),
+
     KEY `reportsTo` (`reportsTo`),
     KEY `storeCode` (`storeCode`),
     CONSTRAINT `employees_ibfk_1` FOREIGN KEY (`reportsTo`) REFERENCES `Employees` (`employeeNumber`),
