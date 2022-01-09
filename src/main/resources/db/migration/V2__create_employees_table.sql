@@ -1,6 +1,6 @@
 /*Table structure for table `employees` */
 
--- DROP TABLE IF EXISTS `Employees`;
+DROP TABLE IF EXISTS `Employees`;
 
 CREATE TABLE `Employees` (
     `employeeNumber` int(11) NOT NULL,

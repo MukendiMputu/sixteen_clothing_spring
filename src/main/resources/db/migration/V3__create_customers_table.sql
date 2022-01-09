@@ -1,6 +1,6 @@
 /*Table structure for table `Customers` */
 
--- DROP TABLE IF EXISTS `Customers`;
+DROP TABLE IF EXISTS `Customers`;
 
 CREATE TABLE `Customers` (
     `customerNumber` int(11) NOT NULL,

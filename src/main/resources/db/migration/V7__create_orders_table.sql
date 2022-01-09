@@ -1,6 +1,6 @@
 /*Table structure for table `Orders` */
 
--- DROP TABLE IF EXISTS `Orders`;
+DROP TABLE IF EXISTS `Orders`;
 
 CREATE TABLE `Orders` (
     `orderNumber` int(11) NOT NULL,

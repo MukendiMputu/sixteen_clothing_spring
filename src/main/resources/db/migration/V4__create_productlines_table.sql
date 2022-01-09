@@ -1,4 +1,4 @@
-/*Table structure for table `Productlines` */
+/*Table structure for table `ProductLines` */
 
 DROP TABLE IF EXISTS `Productlines`;
 

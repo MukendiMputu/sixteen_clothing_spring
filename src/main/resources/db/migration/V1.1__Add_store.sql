@@ -1,4 +1,5 @@
 /*Data for the table `Stores` */
+
 insert into
     `Stores`(
     `storeCode`,

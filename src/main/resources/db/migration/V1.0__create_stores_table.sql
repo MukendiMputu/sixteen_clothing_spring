@@ -1,6 +1,6 @@
 /*Table structure for table `stores` */
 
--- DROP TABLE IF EXISTS `Stores`;
+DROP TABLE IF EXISTS `Stores`;
 
 CREATE TABLE `Stores` (
     `storeCode` varchar(10) NOT NULL,
