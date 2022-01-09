@@ -1,4 +1,4 @@
-![](src/main/resources/sc_banner.png)
+![](src/main/resources/static/assets/images/sc_banner.png)
 
 # Sixteen Clothing
 
